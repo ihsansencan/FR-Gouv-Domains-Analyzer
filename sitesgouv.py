@@ -5,7 +5,7 @@ Author: Ihsan Sencan
 * https://www.linkedin.com/in/ihsansencan
 * https://x.com/ihsansencan
 GitHub:
-* https://github.com/ihsansencan/fr-gouv-domains
+* https://github.com/ihsansencan/FR-Gouv-Domains-Analyzer
 """
 
 import sys
